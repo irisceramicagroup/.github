@@ -1,12 +1,15 @@
-## Hi there 👋
+![Iris Ceramica Group](https://www.irisceramicagroup.com/wp-content/themes/iris/assets/images/iris_logo@2x.png) 
 
-<!--
+## Get Involved
 
-**Here are some ideas to get you started:**
+Right now, open communities are building amazing software together, and there are excellent "good first issue" opportunities, if you're looking to get involved.
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+* [Explore featured projects](https://opensource.microsoft.com/projects/)
+* [Explore open source jobs at Microsoft](https://careers.microsoft.com/us/en/search-results?keywords=open%20source)
+* [Apply for Azure credits for open source projects](https://opensource.microsoft.com/azure-credits)
+
+Visit [irisceramicagroup](https://www.irisceramicagroup.com/group/) to learn more!
+
+----
+
+©2022 GranitiFiandre S.p.A.
