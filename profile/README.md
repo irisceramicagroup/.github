@@ -1,15 +1,11 @@
 ![Iris Ceramica Group](https://www.irisceramicagroup.com/wp-content/themes/iris/assets/images/iris_logo@2x.png) 
 
-## Get Involved
+## We build software.
 
-Right now, open communities are building amazing software together, and there are excellent "good first issue" opportunities, if you're looking to get involved.
+Established in 1961, Iris Ceramica Group is the leader in the design, production, and sales of ceramic tiles. 
 
-* [Explore featured projects](https://opensource.microsoft.com/projects/)
-* [Explore open source jobs at Microsoft](https://careers.microsoft.com/us/en/search-results?keywords=open%20source)
-* [Apply for Azure credits for open source projects](https://opensource.microsoft.com/azure-credits)
-
-Visit [irisceramicagroup](https://www.irisceramicagroup.com/group/) to learn more!
-
+* [Iris Ceramica Group](https://www.irisceramicagroup.com/en/)
+* [Work with Us](https://www.irisceramicagroup.com/en/contact/)
 ----
 
 ©2022 GranitiFiandre S.p.A.
